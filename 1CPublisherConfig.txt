@@ -1,0 +1,6 @@
+Name: MegaTest1353
+IbPath: "C:\Users\LordN\Desktop\TI23"
+PublishCatalogPath: "C:\Users\LordN\Desktop\Pub"
+Publish: tt
+Port: 8081
+IsLearn: Да
